@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TributarIA</title>
+    <link>https://www.instagram.com/tributaria.info/</link>
+    <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
+    <language>it</language>
+    <lastBuildDate>Fri, 10 Jul 2026 08:47:38 +0000</lastBuildDate>
+    <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>TributarIA</itunes:author>
+    <itunes:owner>
+      <itunes:name>TributarIA</itunes:name>
+      <itunes:email>giuseppelonero82@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/copertina.png"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 1 — Prove nuove in appello, plusvalenze immobiliari e raddoppio dei termini</title>
+      <description>Le pronunce della settimana della Sezione Tributaria della Cassazione (depositi del 25 giugno 2026). In evidenza: il perimetro temporale del divieto di nuove prove in appello dopo la riforma del processo tributario (Cass. n. 21711/2026); i limiti alla riqualificazione come area edificabile del terreno già edificato (Cass. n. 21690/2026); il raddoppio dei termini per reati IVA e il giudicato esterno (Cass. nn. 21654-21655/2026). Contenuto divulgativo elaborato con l'ausilio dell'IA; non costituisce consulenza.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_01.mp3" length="1891440" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-1</guid>
+      <pubDate>Fri, 10 Jul 2026 08:47:38 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_01.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
