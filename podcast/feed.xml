@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:27:07 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 2 — Litisconsorzio dei soci, notifiche viziate e redditometro senza motivazione</title>
+      <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: la n. 22917/2026 sul litisconsorzio necessario nelle società di persone e l'opponibilità del giudicato favorevole ottenuto da un socio; la n. 21710/2026 sui limiti all'impugnazione dell'avviso di accertamento con notifica viziata; la n. 22968/2026 sulla nullità della sentenza con motivazione apparente in tema di redditometro. In chiusura, una rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_02.mp3" length="1710288" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-2</guid>
+      <pubDate>Fri, 17 Jul 2026 13:27:07 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_02.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 1 — Prove nuove in appello, plusvalenze immobiliari e raddoppio dei termini</title>
       <description>Le pronunce della settimana della Sezione Tributaria della Cassazione (depositi del 25 giugno 2026). In evidenza: il perimetro temporale del divieto di nuove prove in appello dopo la riforma del processo tributario (Cass. n. 21711/2026); i limiti alla riqualificazione come area edificabile del terreno già edificato (Cass. n. 21690/2026); il raddoppio dei termini per reati IVA e il giudicato esterno (Cass. nn. 21654-21655/2026). Contenuto divulgativo elaborato con l'ausilio dell'IA; non costituisce consulenza.</description>
