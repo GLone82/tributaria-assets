@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 17 Jul 2026 13:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:22:41 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 3 — Utili occulti e prova del socio, indagini bancarie dopo la CEDU, contraddittorio</title>
+      <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: le ordinanze n. 23383 e 23381 del 16 luglio 2026 sulla prova contraria del socio alla presunzione di distribuzione degli utili extracontabili; la n. 23380/2026 sull'autorizzazione alle indagini bancarie dopo la sentenza CEDU Ferrieri e Bonassisa c. Italia; la n. 23354/2026 su contraddittorio endoprocedimentale e prova di resistenza. In chiusura, rassegna rapida su cessione d'azienda, contabilità in nero e riscossione. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_03.mp3" length="1824480" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-3</guid>
+      <pubDate>Fri, 24 Jul 2026 15:22:41 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_03.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 2 — Litisconsorzio dei soci, notifiche viziate e redditometro senza motivazione</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: la n. 22917/2026 sul litisconsorzio necessario nelle società di persone e l'opponibilità del giudicato favorevole ottenuto da un socio; la n. 21710/2026 sui limiti all'impugnazione dell'avviso di accertamento con notifica viziata; la n. 22968/2026 sulla nullità della sentenza con motivazione apparente in tema di redditometro. In chiusura, una rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
