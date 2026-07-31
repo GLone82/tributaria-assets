@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 10:02:24 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 4 — Esenzione ICI senza famiglia, termine DOCFA ordinatorio e fatture inesistenti</title>
+      <description>Le Sezioni Unite (sent. n. 23488 del 18/7/2026) ridefiniscono l'esenzione ICI per l'abitazione principale: basta la dimora abituale del contribuente, senza il nucleo familiare. La sez. V (n. 23138 del 13/7/2026) chiarisce che il termine di 12 mesi della procedura DOCFA è ordinatorio: nessuna decadenza per l'ufficio. La Cassazione penale (sez. III, n. 26075 del 13/7/2026) esclude la violazione della correlazione tra accusa e sentenza tra fatture oggettivamente e soggettivamente inesistenti. In chiusura, sequestri sul prezzo del reato ex art. 8 e giudicato esterno rilevabile d'ufficio. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_04.mp3" length="1754208" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-4</guid>
+      <pubDate>Fri, 31 Jul 2026 10:02:24 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_04.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 3 — Utili occulti e prova del socio, indagini bancarie dopo la CEDU, contraddittorio</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: le ordinanze n. 23383 e 23381 del 16 luglio 2026 sulla prova contraria del socio alla presunzione di distribuzione degli utili extracontabili; la n. 23380/2026 sull'autorizzazione alle indagini bancarie dopo la sentenza CEDU Ferrieri e Bonassisa c. Italia; la n. 23354/2026 su contraddittorio endoprocedimentale e prova di resistenza. In chiusura, rassegna rapida su cessione d'azienda, contabilità in nero e riscossione. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
