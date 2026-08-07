@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 31 Jul 2026 10:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:02:10 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 5 — Omesse ritenute previdenziali: DM10, prova del pagamento e ragionevole dubbio</title>
+      <description>Puntata monografica dedicata a Cass. pen., sez. 3, 22 luglio 2026, n. 27492/2026, in tema di omesso versamento delle ritenute previdenziali ex art. 2, comma 1-bis, d.l. 463/1983. Analizziamo il presupposto del materiale pagamento delle retribuzioni, il valore di confessione stragiudiziale dei modelli DM10 con il relativo onere probatorio a carico dell'imputato, e gli effetti del ragionevole dubbio sulla soglia di punibilità di 10.000 euro in caso di acconti parziali ai lavoratori. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_05.mp3" length="1392912" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-5</guid>
+      <pubDate>Fri, 07 Aug 2026 10:02:10 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_05.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 4 — Esenzione ICI senza famiglia, termine DOCFA ordinatorio e fatture inesistenti</title>
       <description>Le Sezioni Unite (sent. n. 23488 del 18/7/2026) ridefiniscono l'esenzione ICI per l'abitazione principale: basta la dimora abituale del contribuente, senza il nucleo familiare. La sez. V (n. 23138 del 13/7/2026) chiarisce che il termine di 12 mesi della procedura DOCFA è ordinatorio: nessuna decadenza per l'ufficio. La Cassazione penale (sez. III, n. 26075 del 13/7/2026) esclude la violazione della correlazione tra accusa e sentenza tra fatture oggettivamente e soggettivamente inesistenti. In chiusura, sequestri sul prezzo del reato ex art. 8 e giudicato esterno rilevabile d'ufficio. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
