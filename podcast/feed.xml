@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:03:07 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 6 — Sequestro oltre la quota, liti definite e costi nell'induttivo puro</title>
+      <description>In questa puntata di TributarIA analizziamo tre pronunce di legittimità: Cass. pen., sez. 2, 30 luglio 2026, n. 29097/2026, sul sequestro preventivo sui beni della persona fisica in caso di incapienza dell'ente; Cass., sez. 5, 30 luglio 2026, n. 24271/2026, sugli effetti preclusivi della definizione agevolata delle liti pendenti; Cass., sez. 5, 30 luglio 2026, n. 24248/2026, sull'obbligo di riconoscere i costi correlati nell'accertamento induttivo puro. In chiusura, rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_06.mp3" length="1756224" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-6</guid>
+      <pubDate>Fri, 14 Aug 2026 10:03:07 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_06.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 5 — Omesse ritenute previdenziali: DM10, prova del pagamento e ragionevole dubbio</title>
       <description>Puntata monografica dedicata a Cass. pen., sez. 3, 22 luglio 2026, n. 27492/2026, in tema di omesso versamento delle ritenute previdenziali ex art. 2, comma 1-bis, d.l. 463/1983. Analizziamo il presupposto del materiale pagamento delle retribuzioni, il valore di confessione stragiudiziale dei modelli DM10 con il relativo onere probatorio a carico dell'imputato, e gli effetti del ragionevole dubbio sulla soglia di punibilità di 10.000 euro in caso di acconti parziali ai lavoratori. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
