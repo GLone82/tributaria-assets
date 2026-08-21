@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:04:12 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 7 — Sovracanoni BIM alle Sezioni Unite, rendite DOCFA e consorzi di bonifica</title>
+      <description>Le Sezioni Unite (Cass. n. 24516/2026) chiudono la questione del sovracanone ai Consorzi BIM: dovuto da tutti gli impianti, senza discrimine altimetrico. Poi il classamento DOCFA degli immobili in categoria D ed E: per Cass. n. 24619/2026 i criteri di stima sono alternativi, senza gerarchia. Infine Cass. n. 24576/2026 su consorzi di bonifica siciliani, periodo transitorio e ampliamento degli atti impugnabili ex art. 19 d.lgs. 546/1992. In coda, le novità penal-tributarie della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_07.mp3" length="1795680" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-7</guid>
+      <pubDate>Fri, 21 Aug 2026 10:04:12 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_07.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 6 — Sequestro oltre la quota, liti definite e costi nell'induttivo puro</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce di legittimità: Cass. pen., sez. 2, 30 luglio 2026, n. 29097/2026, sul sequestro preventivo sui beni della persona fisica in caso di incapienza dell'ente; Cass., sez. 5, 30 luglio 2026, n. 24271/2026, sugli effetti preclusivi della definizione agevolata delle liti pendenti; Cass., sez. 5, 30 luglio 2026, n. 24248/2026, sull'obbligo di riconoscere i costi correlati nell'accertamento induttivo puro. In chiusura, rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
