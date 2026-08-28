@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:03:41 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 8 — Prova della distrazione, integrativa infedele ed estratto di ruolo</title>
+      <description>In questa puntata di TributarIA: la prova della distrazione nella bancarotta fraudolenta e il dolo nella bancarotta post-fallimentare (Cass. pen., sez. 5, n. 31593/2026); la rilevanza penale della dichiarazione integrativa infedele ex art. 4 d.lgs. 74/2000 (Cass. pen., sez. 3, n. 31432/2026); l'inoppugnabilità dell'estratto di ruolo e l'inammissibilità sopravvenuta nei giudizi pendenti (Cass., sez. 5, n. 24661/2026). In chiusura, rapida rassegna su spese di lite, agevolazioni IAP e bis in idem. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_08.mp3" length="1681776" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-8</guid>
+      <pubDate>Fri, 28 Aug 2026 10:03:41 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_08.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 7 — Sovracanoni BIM alle Sezioni Unite, rendite DOCFA e consorzi di bonifica</title>
       <description>Le Sezioni Unite (Cass. n. 24516/2026) chiudono la questione del sovracanone ai Consorzi BIM: dovuto da tutti gli impianti, senza discrimine altimetrico. Poi il classamento DOCFA degli immobili in categoria D ed E: per Cass. n. 24619/2026 i criteri di stima sono alternativi, senza gerarchia. Infine Cass. n. 24576/2026 su consorzi di bonifica siciliani, periodo transitorio e ampliamento degli atti impugnabili ex art. 19 d.lgs. 546/1992. In coda, le novità penal-tributarie della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
