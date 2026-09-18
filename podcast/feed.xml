@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 11 Sep 2026 10:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:03:44 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,17 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 11 — Contrabbando e accise, bancarotta plurima e crisi di liquidità nelle ritenute</title>
+      <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione penale: la n. 33297/2026 (sez. 1, 10/9/2026) su misure cautelari e associazione per delinquere nel contrabbando di prodotti energetici ed evasione delle accise; la n. 33216/2026 (sez. 5, 9/9/2026) sull'aggravante della pluralità di fatti di bancarotta non esplicitamente contestata; la n. 33156/2026 (sez. 3, 9/9/2026) su crisi di liquidità e attenuanti generiche nell'omesso versamento delle ritenute previdenziali. In chiusura, la n. 32912/2026 sul deposito telematico dell'appello. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_11.mp3" length="1700496" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-ep-11</guid>
+      <pubDate>Fri, 18 Sep 2026 10:03:44 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_11.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 10 — Confisca per equivalente, pignoramenti presso terzi e residenza fiscale</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce di rilievo: Cass. pen., sez. 3, n. 32862/2026 sul sequestro per equivalente nei reati tributari commessi in concorso nell'interesse dell'ente; Cass., Sez. Unite, n. 24845/2026 sull'accertamento dell'obbligo del terzo nel pignoramento di crediti tributari e sul riparto di giurisdizione; Cass., sez. 5, n. 24972/2026 sull'iscrizione anagrafica quale presupposto assorbente della residenza fiscale e sul monitoraggio fiscale. In chiusura, rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
