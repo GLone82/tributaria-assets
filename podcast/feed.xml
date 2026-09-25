@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:04:43 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -17,11 +17,24 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Ep. 12 — Documenti nuovi in appello, litisconsorzio soci-società e frodi carosello</title>
+      <description>TributarIA, l'aggiornamento settimanale di giurisprudenza tributaria di legittimità. Al centro della puntata: Cass. n. 25252/2026 sul regime intertemporale del nuovo art. 58 e i documenti di notifica in appello dopo Corte cost. 36/2025; Cass. n. 25439/2026 sul litisconsorzio necessario tra società di persone e soci, esteso a Irap e Iva; Cass. n. 25425/2026 su onere della prova e diligenza del cessionario nelle operazioni soggettivamente inesistenti. In coda, rassegna su ottemperanza, estratto di ruolo e decadenza. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_12.mp3" length="1740528" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-sentenze-12</guid>
+      <pubDate>Fri, 25 Sep 2026 10:04:43 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_12.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Ep. 11 — Contrabbando e accise, bancarotta plurima e crisi di liquidità nelle ritenute</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione penale: la n. 33297/2026 (sez. 1, 10/9/2026) su misure cautelari e associazione per delinquere nel contrabbando di prodotti energetici ed evasione delle accise; la n. 33216/2026 (sez. 5, 9/9/2026) sull'aggravante della pluralità di fatti di bancarotta non esplicitamente contestata; la n. 33156/2026 (sez. 3, 9/9/2026) su crisi di liquidità e attenuanti generiche nell'omesso versamento delle ritenute previdenziali. In chiusura, la n. 32912/2026 sul deposito telematico dell'appello. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_11.mp3" length="1700496" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-11</guid>
+      <guid isPermaLink="false">tributaria-sentenze-11</guid>
       <pubDate>Fri, 18 Sep 2026 10:03:44 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_11.png"/>
@@ -31,8 +44,9 @@
       <title>Ep. 10 — Confisca per equivalente, pignoramenti presso terzi e residenza fiscale</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce di rilievo: Cass. pen., sez. 3, n. 32862/2026 sul sequestro per equivalente nei reati tributari commessi in concorso nell'interesse dell'ente; Cass., Sez. Unite, n. 24845/2026 sull'accertamento dell'obbligo del terzo nel pignoramento di crediti tributari e sul riparto di giurisdizione; Cass., sez. 5, n. 24972/2026 sull'iscrizione anagrafica quale presupposto assorbente della residenza fiscale e sul monitoraggio fiscale. In chiusura, rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_10.mp3" length="1914624" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-10</guid>
+      <guid isPermaLink="false">tributaria-sentenze-10</guid>
       <pubDate>Fri, 11 Sep 2026 10:04:12 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>10</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_10.png"/>
@@ -42,8 +56,9 @@
       <title>Ep. 9 — Confisca doganale e IVA, dolo di evasione e redditi di provenienza illecita</title>
       <description>In questa puntata di TributarIA: le Sezioni Unite (Cass. n. 24764 del 25/8/2026) sull'illegittimità costituzionale della confisca doganale per omesso versamento dell'IVA all'importazione in caso di pagamento integrale; la Terza penale (n. 31782 del 24/8/2026) sul divieto di desumere il dolo specifico di evasione dagli elementi tipici del reato; ancora la Terza penale (n. 31786 del 24/8/2026) su omessa dichiarazione dei redditi illeciti e nemo tenetur se detegere. In coda, una rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_09.mp3" length="1702224" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-9</guid>
+      <guid isPermaLink="false">tributaria-sentenze-9</guid>
       <pubDate>Fri, 04 Sep 2026 10:04:33 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>9</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_09.png"/>
@@ -53,8 +68,9 @@
       <title>Ep. 8 — Prova della distrazione, integrativa infedele ed estratto di ruolo</title>
       <description>In questa puntata di TributarIA: la prova della distrazione nella bancarotta fraudolenta e il dolo nella bancarotta post-fallimentare (Cass. pen., sez. 5, n. 31593/2026); la rilevanza penale della dichiarazione integrativa infedele ex art. 4 d.lgs. 74/2000 (Cass. pen., sez. 3, n. 31432/2026); l'inoppugnabilità dell'estratto di ruolo e l'inammissibilità sopravvenuta nei giudizi pendenti (Cass., sez. 5, n. 24661/2026). In chiusura, rapida rassegna su spese di lite, agevolazioni IAP e bis in idem. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_08.mp3" length="1681776" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-8</guid>
+      <guid isPermaLink="false">tributaria-sentenze-8</guid>
       <pubDate>Fri, 28 Aug 2026 10:03:41 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_08.png"/>
@@ -64,8 +80,9 @@
       <title>Ep. 7 — Sovracanoni BIM alle Sezioni Unite, rendite DOCFA e consorzi di bonifica</title>
       <description>Le Sezioni Unite (Cass. n. 24516/2026) chiudono la questione del sovracanone ai Consorzi BIM: dovuto da tutti gli impianti, senza discrimine altimetrico. Poi il classamento DOCFA degli immobili in categoria D ed E: per Cass. n. 24619/2026 i criteri di stima sono alternativi, senza gerarchia. Infine Cass. n. 24576/2026 su consorzi di bonifica siciliani, periodo transitorio e ampliamento degli atti impugnabili ex art. 19 d.lgs. 546/1992. In coda, le novità penal-tributarie della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_07.mp3" length="1795680" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-7</guid>
+      <guid isPermaLink="false">tributaria-sentenze-7</guid>
       <pubDate>Fri, 21 Aug 2026 10:04:12 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_07.png"/>
@@ -75,8 +92,9 @@
       <title>Ep. 6 — Sequestro oltre la quota, liti definite e costi nell'induttivo puro</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce di legittimità: Cass. pen., sez. 2, 30 luglio 2026, n. 29097/2026, sul sequestro preventivo sui beni della persona fisica in caso di incapienza dell'ente; Cass., sez. 5, 30 luglio 2026, n. 24271/2026, sugli effetti preclusivi della definizione agevolata delle liti pendenti; Cass., sez. 5, 30 luglio 2026, n. 24248/2026, sull'obbligo di riconoscere i costi correlati nell'accertamento induttivo puro. In chiusura, rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_06.mp3" length="1756224" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-6</guid>
+      <guid isPermaLink="false">tributaria-sentenze-6</guid>
       <pubDate>Fri, 14 Aug 2026 10:03:07 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_06.png"/>
@@ -86,8 +104,9 @@
       <title>Ep. 5 — Omesse ritenute previdenziali: DM10, prova del pagamento e ragionevole dubbio</title>
       <description>Puntata monografica dedicata a Cass. pen., sez. 3, 22 luglio 2026, n. 27492/2026, in tema di omesso versamento delle ritenute previdenziali ex art. 2, comma 1-bis, d.l. 463/1983. Analizziamo il presupposto del materiale pagamento delle retribuzioni, il valore di confessione stragiudiziale dei modelli DM10 con il relativo onere probatorio a carico dell'imputato, e gli effetti del ragionevole dubbio sulla soglia di punibilità di 10.000 euro in caso di acconti parziali ai lavoratori. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_05.mp3" length="1392912" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-5</guid>
+      <guid isPermaLink="false">tributaria-sentenze-5</guid>
       <pubDate>Fri, 07 Aug 2026 10:02:10 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_05.png"/>
@@ -97,8 +116,9 @@
       <title>Ep. 4 — Esenzione ICI senza famiglia, termine DOCFA ordinatorio e fatture inesistenti</title>
       <description>Le Sezioni Unite (sent. n. 23488 del 18/7/2026) ridefiniscono l'esenzione ICI per l'abitazione principale: basta la dimora abituale del contribuente, senza il nucleo familiare. La sez. V (n. 23138 del 13/7/2026) chiarisce che il termine di 12 mesi della procedura DOCFA è ordinatorio: nessuna decadenza per l'ufficio. La Cassazione penale (sez. III, n. 26075 del 13/7/2026) esclude la violazione della correlazione tra accusa e sentenza tra fatture oggettivamente e soggettivamente inesistenti. In chiusura, sequestri sul prezzo del reato ex art. 8 e giudicato esterno rilevabile d'ufficio. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_04.mp3" length="1754208" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-4</guid>
+      <guid isPermaLink="false">tributaria-sentenze-4</guid>
       <pubDate>Fri, 31 Jul 2026 10:02:24 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_04.png"/>
@@ -108,8 +128,9 @@
       <title>Ep. 3 — Utili occulti e prova del socio, indagini bancarie dopo la CEDU, contraddittorio</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: le ordinanze n. 23383 e 23381 del 16 luglio 2026 sulla prova contraria del socio alla presunzione di distribuzione degli utili extracontabili; la n. 23380/2026 sull'autorizzazione alle indagini bancarie dopo la sentenza CEDU Ferrieri e Bonassisa c. Italia; la n. 23354/2026 su contraddittorio endoprocedimentale e prova di resistenza. In chiusura, rassegna rapida su cessione d'azienda, contabilità in nero e riscossione. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_03.mp3" length="1824480" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-3</guid>
+      <guid isPermaLink="false">tributaria-sentenze-3</guid>
       <pubDate>Fri, 24 Jul 2026 15:22:41 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>3</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_03.png"/>
@@ -119,8 +140,9 @@
       <title>Ep. 2 — Litisconsorzio dei soci, notifiche viziate e redditometro senza motivazione</title>
       <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione tributaria: la n. 22917/2026 sul litisconsorzio necessario nelle società di persone e l'opponibilità del giudicato favorevole ottenuto da un socio; la n. 21710/2026 sui limiti all'impugnazione dell'avviso di accertamento con notifica viziata; la n. 22968/2026 sulla nullità della sentenza con motivazione apparente in tema di redditometro. In chiusura, una rapida rassegna delle altre decisioni della settimana. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_02.mp3" length="1710288" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-2</guid>
+      <guid isPermaLink="false">tributaria-sentenze-2</guid>
       <pubDate>Fri, 17 Jul 2026 13:27:07 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_02.png"/>
@@ -130,8 +152,9 @@
       <title>Ep. 1 — Prove nuove in appello, plusvalenze immobiliari e raddoppio dei termini</title>
       <description>Le pronunce della settimana della Sezione Tributaria della Cassazione (depositi del 25 giugno 2026). In evidenza: il perimetro temporale del divieto di nuove prove in appello dopo la riforma del processo tributario (Cass. n. 21711/2026); i limiti alla riqualificazione come area edificabile del terreno già edificato (Cass. n. 21690/2026); il raddoppio dei termini per reati IVA e il giudicato esterno (Cass. nn. 21654-21655/2026). Contenuto divulgativo elaborato con l'ausilio dell'IA; non costituisce consulenza.</description>
       <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_01.mp3" length="1891440" type="audio/mpeg"/>
-      <guid isPermaLink="false">tributaria-ep-1</guid>
+      <guid isPermaLink="false">tributaria-sentenze-1</guid>
       <pubDate>Fri, 10 Jul 2026 08:47:38 +0000</pubDate>
+      <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_01.png"/>
