@@ -5,7 +5,7 @@
     <link>https://www.instagram.com/tributaria.info/</link>
     <description>TributarIA è il notiziario settimanale sulla giurisprudenza tributaria: ogni settimana, in cinque minuti, le pronunce più rilevanti della Sezione Tributaria e delle Sezioni Unite della Cassazione. La questione decisa, il principio di diritto e le ricadute pratiche per avvocati, commercialisti e contribuenti. Contenuti elaborati con l'ausilio dell'intelligenza artificiale dai testi ufficiali delle sentenze. Contenuto divulgativo: non costituisce consulenza professionale.</description>
     <language>it</language>
-    <lastBuildDate>Fri, 25 Sep 2026 10:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:05:14 +0000</lastBuildDate>
     <atom:link href="https://glone82.github.io/tributaria-assets/podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>TributarIA</itunes:author>
     <itunes:owner>
@@ -16,6 +16,18 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 13 — Termine breve d'appello, rimborso del registro e rottamazione quinquies</title>
+      <description>In questa puntata di TributarIA analizziamo tre pronunce della Cassazione: la sentenza n. 25682 del 22 settembre 2026 sulla decorrenza del termine breve d'appello dopo la notifica a mani proprie della sentenza; la n. 25549 del 18 settembre 2026 sul dies a quo del rimborso dell'imposta di registro versata in luogo dell'IVA; la n. 25626 del 21 settembre 2026 sulla rottamazione quinquies, con estinzione del giudizio senza doppio contributo unificato. In chiusura, rassegna rapida su cartelle, rateizzazione, notifiche PEC e raddoppio dei termini. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
+      <enclosure url="https://glone82.github.io/tributaria-assets/podcast/episodio_13.mp3" length="1661760" type="audio/mpeg"/>
+      <guid isPermaLink="false">tributaria-sentenze-13</guid>
+      <pubDate>Fri, 02 Oct 2026 10:05:14 +0000</pubDate>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://glone82.github.io/tributaria-assets/podcast/episodio_13.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ep. 12 — Documenti nuovi in appello, litisconsorzio soci-società e frodi carosello</title>
       <description>TributarIA, l'aggiornamento settimanale di giurisprudenza tributaria di legittimità. Al centro della puntata: Cass. n. 25252/2026 sul regime intertemporale del nuovo art. 58 e i documenti di notifica in appello dopo Corte cost. 36/2025; Cass. n. 25439/2026 sul litisconsorzio necessario tra società di persone e soci, esteso a Irap e Iva; Cass. n. 25425/2026 su onere della prova e diligenza del cessionario nelle operazioni soggettivamente inesistenti. In coda, rassegna su ottemperanza, estratto di ruolo e decadenza. Questo podcast ha finalità divulgative e non costituisce consulenza professionale.</description>
